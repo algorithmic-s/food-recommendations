@@ -1,5 +1,5 @@
 # food-recommendations
-a website showing recipes &amp; allowing users to save recipes, offering recommendations based on previous usage, login features, making profiles &amp; allowed to post comments on certain recipes. Inspired from experience with previous applications
+a website showing recipes &amp; allowing users to save recipes, offering recommendations based on previous usage, login features, making profiles &amp; allowed to post comments on certain recipes. This idea is inspired from experience with previous applications, so all credits of this idea goes to applications that already have these features. Made to showcase knowledge of object-oriented programming techniques.
 
 
         TOOLS USED
